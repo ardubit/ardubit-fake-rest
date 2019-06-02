@@ -20,12 +20,22 @@
   "parcels": [
     {
       "idParcel": 1,
-      "trackingNumber": 1000,
+      "trackingNumber": 0001,
       "fromUser": "Kate",
       "toUser": "Ivan",
-      "weight": 20,
+      "weight": 2,
       "value": 100,
       "express": "Yes"
-    }
+    },
+	
+	{
+      "idParcel": 2,
+      "trackingNumber": 0002,
+      "fromUser": "Ivan",
+      "toUser": "Kate",
+      "weight": 1,
+      "value": 50,
+      "express": "No"
+    },
   ] 
 }
