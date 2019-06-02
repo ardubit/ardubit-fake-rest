@@ -19,8 +19,13 @@
   
   "parcels": [
     {
-      "id": 1
+      "idPacel": 1,
+	  "trackingNumber": 1000,
+	  "fromUser": "Kate",
+	  "toUser": "Ivan",
+	  "weight": 20,
+	  "value": 100,
+	  "express": "Yes"
     }
   ] 
-
 }
