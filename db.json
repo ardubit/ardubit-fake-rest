@@ -1,0 +1,26 @@
+
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Kate Ivanova"
+    },
+
+    {
+      "id": 2,
+      "name": "Ivan Petrov"
+    },
+
+    {
+      "id": 1,
+      "name": "Nicolay Gorbachev"
+    }
+  ],
+  
+  "parcels": [
+    {
+      "id": 1
+    }
+  ] 
+
+}
