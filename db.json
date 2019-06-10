@@ -19,7 +19,7 @@
   
   "parcels": [
     {
-      "idParcel": 1,
+      "parcelId": 1,
       "trackingNumber": "0001",
       "fromUser": "Kate",
       "toUser": "Ivan",
@@ -29,7 +29,7 @@
     },
 	
 	{
-      "idParcel": 2,
+      "parcelId": 2,
       "trackingNumber": "0002",
       "fromUser": "Ivan",
       "toUser": "Kate",
@@ -39,7 +39,7 @@
     },
 	
 	{
-      "idParcel": 3,
+      "parcelId": 3,
       "trackingNumber": "0003",
       "fromUser": "Mary",
       "toUser": "Aleksey",
@@ -49,7 +49,7 @@
     },
 	
 	{
-      "idParcel": 4,
+      "parcelId": 4,
       "trackingNumber": "0004",
       "fromUser": "Aleksey",
       "toUser": "Kate",
