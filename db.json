@@ -1,22 +1,18 @@
-
 {
   "users": [
     {
       "id": 1,
       "name": "Kate Ivanova"
     },
-
     {
       "id": 2,
       "name": "Ivan Petrov"
     },
-
     {
       "id": 1,
       "name": "Nicolay Gorbachev"
     }
   ],
-  
   "parcels": [
     {
       "parcelId": 1,
@@ -27,8 +23,7 @@
       "value": 100,
       "express": "Yes"
     },
-	
-	{
+    {
       "parcelId": 2,
       "trackingNumber": "0002",
       "fromUser": "Ivan",
@@ -37,8 +32,7 @@
       "value": 50,
       "express": "No"
     },
-	
-	{
+    {
       "parcelId": 3,
       "trackingNumber": "0003",
       "fromUser": "Mary",
@@ -47,8 +41,7 @@
       "value": 250,
       "express": "Yes"
     },
-	
-	{
+    {
       "parcelId": 4,
       "trackingNumber": "0004",
       "fromUser": "Aleksey",
@@ -57,5 +50,27 @@
       "value": 45,
       "express": "No"
     }
-  ] 
+  ],
+  "products": [
+    {
+      "id": 1,
+      "quantity": 1,
+      "name": "Jacket"
+    },
+    {
+      "id": 2,
+      "quantity": 0,
+      "name": "Book"
+    },
+    {
+      "id": 3,
+      "quantity": 5,
+      "name": "Phone"
+    },
+    {
+      "id": 4,
+      "quantity": 2,
+      "name": "Pen"
+    }
+  ]
 }
